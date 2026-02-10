@@ -19,7 +19,15 @@ Ara, who personally commissioned and funded the development of this program.
 
 Scope of Use:
 Re-uploading or paid distribution by any third party other than CoderRami and Ara is prohibited.
-The program may only be used for commercial purposes related to uploading serialized content.
+
+This program may only be used for the following purposes:
+
+1. Non-commercial use
+2. For commercial use: use solely for the purpose of uploading serialized content
+
+Any other use is prohibited.
 
 Program Icon Source:
-The scissors symbol from the special characters set of Hangul 2020 was transferred to Photoshop and converted into a PNG file for use.
+The program icon uses a free-source image.
+
+The notice text may be changed without prior notice, and any changes will take effect from the date they are made.
